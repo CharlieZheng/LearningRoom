@@ -1,0 +1,2 @@
+ - POJO: plain old Java-based object
+ - DAO: data access object
